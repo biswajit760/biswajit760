@@ -1,6 +1,6 @@
-
 <h1 align="center">Hi 👋, I'm Biswajit Mahanty</h1>
 <h3 align="center">A passionate frontend developer| Dedicated to Web Development | Currently studying DSA in C++ 🚀|Let's connect 🤝</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit760&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit760" /> </p>
 
@@ -17,5 +17,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajit760&show_icons=true&locale=en" alt="biswajit760" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajit760&" alt="biswajit760" /></p>
-
-
