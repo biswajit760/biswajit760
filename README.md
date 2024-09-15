@@ -1,12 +1,3 @@
-- 👋 Hi, I’m @biswajit760
-- 👀 I’m interested in Web Devlopment
-- 🌱 I’m currently learning DSA in C++ 
-- 💞️ I’m looking to collaborate on Github
-- 
-<!---
-biswajit760/biswajit760 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
 
 <h1 align="center">Hi 👋, I'm Biswajit Mahanty</h1>
 <h3 align="center">A passionate frontend developer| Dedicated to Web Development | Currently studying DSA in C++ 🚀|Let's connect 🤝</h3>
