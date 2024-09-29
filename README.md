@@ -1,19 +1,76 @@
-<h1 align="center">Hi 👋, I'm Biswajit Mahanty</h1>
-<h3 align="center">A passionate frontend developer| Dedicated to Web Development | Currently studying DSA in C++ 🚀|Let's connect 🤝</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif">
+<h1 align="center"> Hi,<img src="https://i.pinimg.com/originals/aa/59/d1/aa59d139b93dde70ff207187c9f1d8bd.gif" height="40"width="40" />I'm <a href="https://www.linkedin.com/in/anuradha-adhikari/" target="_blank">Biswajit</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=biswajit760&label=Profile%20views&color=0e75b6&style=flat" alt="biswajit760" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/biswajit mahanty" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="biswajit mahanty" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=biswajit760&show_icons=true&locale=en&layout=compact" alt="biswajit760" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=biswajit760&show_icons=true&locale=en" alt="biswajit760" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=biswajit760&" alt="biswajit760" /></p>
+    
+    <div id="header" align="center">
+    <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3Nyc25ycG12cGJzb3BrcjFseTQyanNzbW1mdnJhZzJmNGpvaGs3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif"  width="700"/> 
+    </div>
+    
+    
+    <div align="center">
+    
+    [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=900&size=23&duration=3000&pause=500&color=FDFEFE&background=2A2E3425&center=true&vCenter=true&&lines=Welcome+to+my+Github+profile!;CS'26+Undergrad;Passionate+about+Coding!)](https://git.io/typing-svg)
+    
+    </div>
+    
+    <!--<div align="center"> 
+        <h1>  
+            <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=25&duration=3200&color=4FC3F7&center=true&vCenter=true&width=450&lines=Hey..+I'm+Neeru;Welcome+to+my+Github+profile!;Passionate+about+Coding!;Exploring+new+technologies!;Let's+code+together!;Passionate+about+Coding!;" alt="Typing SVG"/> 
+        </h1>
+    </div> -->
+    
+    <h1 align="center">Connect with me<img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="35"></h1>       
+    
+    Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out to me on the following platforms: <br> <br>
+    <p align="center">
+    <a href="https://www.linkedin.com/in/biswajit-mahanty-436347281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzyN0BufPQxKGy1tIVHstTA%3D%3D" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Biswajit" height="40" width="50" /></a>
+    
+    </p>
+    
+    <!--view count-->
+    <p align="center"> <img width="200px" src="https://komarev.com/ghpvc/?username=biswajit760&&style=for-the-badge" /> </p>
+    <!--line-->
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+    
+    <h1 >👩‍💻 About me : </h1>
+     🌿 Hello, I'm Biswajit , currently a 2nd-year CS student @NSU.
+    <br><br>
+    ✨Passion for web development 🌐 and a commitment to learn Data Structures and Algorithms (DSA) 📊.
+    <br><br>
+    📅 I love sharing daily insights on DSA and Devlopment, documenting my learning journey. You're invited to join me on <a href="https://www.linkedin.com/in/biswajit-mahanty-436347281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzyN0BufPQxKGy1tIVHstTA%3D%3D" target="new"> LinkedIn</a> for this exciting path of exploration and growth!
+    <br><br>
+    📩 Get in touch: 
+        <a href="biswajitmahany7@gmail.com">biswajitmahany7@gmail.com</a>
+    <br>
+    
+    
+    <!--Languages & tools-->
+    <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages and Tools</h1>
+    
+    <p>
+      <a href="https://skillicons.dev">
+        <img margin="8px" src="https://skillicons.dev/icons?i=html,css,js,cpp" />
+      </a>
+    </p>
+    
+    <br>
+    
+    <!--Line-->
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+    
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neeru24&layout=compact&theme=dark&langs_count=10&card_width=445)](https://github.com/anuraghazra/github-readme-stats)
+    
+    <!--stats-->
+    <h1 align="left"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0b335028-1d3d-4ee5-b5b3-a373d499be7e" width="45"> GitHub Stats </h1>
+    
+    Peek into my GitHub stats to check out my digital journey! <br> <br>
+    <a href="https://github.com/Ramsey99/github-readme-stats"><img width=100% src="https://github-profile-trophy.vercel.app/?username=neeru24&theme=radical&no-frame=true&no-bg=true&margin-w=4"></a>
+    [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=neeru24&theme=dark)](https://git.io/streak-stats)
+    
+    <!--Thank You-->
+    <p align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"></p> 
+    
+    <!-- <div align="center">
+        <h1>
+            <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=27&duration=3200&color=3E92CC&center=true&vCenter=true&width=650&lines=Enjoy+Coding..;Code+with+passion+,+create+with+purpose.;Commit+to+your+dreams+,+push+to+GitHub.;Craft+your+dreams+with+code.;Dream+big+,+code+bigger.." alt="Typing SVG"/>
+        </h1>
+    </div> -->
