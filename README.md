@@ -64,6 +64,16 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
     
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=biswajit760&theme=dark)](https://git.io/streak-stats)
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=biswajit760&custom_title=Annual%20Contribution%20Graph&bg_color=1A1B27&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&title_color=FFFFFF&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+---
     
 <!--Thank You-->
 <p align="center"><img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg"></p> 
