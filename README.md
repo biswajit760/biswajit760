@@ -31,24 +31,42 @@ Hello, fellow coder!🖐️ Welcome to my GitHub profile! Feel free to reach out
 <!--line-->
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
     
-<h1 >👩‍💻 About me : </h1>
-     🌿 Hello, I'm Biswajit , currently a 2nd-year CS student @NSU.
-    <br><br>
-    ✨Passion for web development 🌐 and a commitment to learn Data Structures and Algorithms (DSA) 📊.
-    <br><br>
-    📅 I love sharing daily insights on DSA and Devlopment, documenting my learning journey. You're invited to join me on <a href="https://www.linkedin.com/in/biswajit-mahanty-436347281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BzyN0BufPQxKGy1tIVHstTA%3D%3D" target="new"> LinkedIn</a> for this exciting path of exploration and growth!
-    <br><br>
-    📩 Get in touch: 
-        <a href="biswajitmahany7@gmail.com">biswajitmahany7@gmail.com</a>
-    <br>
-    
+<h1 align="center">⚡ About Me</h1>
+
+<p align="center">
+  <b>🚀 Full Stack Developer | Final-Year BCA Undergraduate | Open Source Enthusiast</b>
+</p>
+
+<p>
+  👋 <b>Hi, I'm Biswajit!</b> I am a final-year Computer Applications student at <b>Netaji Subhas University</b> (Class of '26), driven by the art of building scalable web applications.
+</p>
+
+<p>
+  I specialize in the <b>MERN Stack</b>, <b>Next.js</b>, and <b>Supabase</b>. My focus is on creating clean, efficient user experiences while strictly maintaining my consistency in <b>Data Structures and Algorithms (DSA)</b>.
+</p>
+
+<p>
+  📢 <b>Join my journey:</b> I document my daily learnings and development insights on LinkedIn. Let's connect!
+</p>
+
+<br>
+
+<div align="center">
+    <a href="mailto:biswajitmahany7@gmail.com" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    &nbsp;&nbsp;
+    <a href="https://www.linkedin.com/in/biswajit-mahanty-436347281" target="_blank" style="text-decoration:none;">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+</div>
     
 <!--Languages & tools-->
 <h1><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 30px height="38"> Languages and Tools</h1>
     
 <p>
       <a href="https://skillicons.dev">
-        <img margin="8px" src="https://skillicons.dev/icons?i=html,css,js,cpp" />
+        <img margin="8px" src="https://skillicons.dev/icons?i=next,react,express,nodejs,typescript,html,css,js,cpp" />
       </a>
 </p>
     
